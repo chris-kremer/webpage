@@ -1,4 +1,4 @@
-baseURL = 'https://chris-kremer.github.io/webpage/'
+baseURL = 'https://chris-kremer.github.io/'
 languageCode = 'en-us'
 title = 'CK'
 theme = "ananke"
