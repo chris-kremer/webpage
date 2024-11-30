@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CK</title>
+    <link>http://localhost:57920/</link>
+    <description>Recent content on CK</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:57920/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:57920/posts/socpref_first/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:57920/posts/socpref_first/</guid>
+      <description>&lt;!DOCTYPE html&gt;&#xA;&lt;html xmlns=&#34;http://www.w3.org/1999/xhtml&#34; lang=&#34;&#34; xml:lang=&#34;&#34;&gt;&#xA;&lt;head&gt;&#xA;  &lt;meta charset=&#34;utf-8&#34; /&gt;&#xA;  &lt;meta name=&#34;generator&#34; content=&#34;pandoc&#34; /&gt;&#xA;  &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1.0, user-scalable=yes&#34; /&gt;&#xA;  &lt;meta name=&#34;author&#34; content=&#34;Christian Kremer&#34; /&gt;&#xA;  &lt;meta name=&#34;dcterms.date&#34; content=&#34;2024-04-15&#34; /&gt;&#xA;  &lt;title&gt;On the Generalizability of Lab Experiments&lt;/title&gt;&#xA;  &lt;style&gt;&#xA;    code{white-space: pre-wrap;}&#xA;    span.smallcaps{font-variant: small-caps;}&#xA;    div.columns{display: flex; gap: min(4vw, 1.5em);}&#xA;    div.column{flex: auto; overflow-x: auto;}&#xA;    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}&#xA;    /* The extra [class] is a hack that increases specificity enough to&#xA;       override a similar rule in reveal.js */&#xA;    ul.task-list[class]{list-style: none;}&#xA;    ul.task-list li input[type=&#34;checkbox&#34;] {&#xA;      font-size: inherit;&#xA;      width: 0.8em;&#xA;      margin: 0 0.8em 0.2em -1.6em;&#xA;      vertical-align: middle;&#xA;    }&#xA;    .display.math{display: block; text-align: center; margin: 0.5rem auto;}&#xA;    /* CSS for citations */&#xA;    div.csl-bib-body { }&#xA;    div.csl-entry {&#xA;      clear: both;&#xA;      margin-bottom: 0em;&#xA;    }&#xA;    .hanging-indent div.csl-entry {&#xA;      margin-left:2em;&#xA;      text-indent:-2em;&#xA;    }&#xA;    div.csl-left-margin {&#xA;      min-width:2em;&#xA;      float:left;&#xA;    }&#xA;    div.csl-right-inline {&#xA;      margin-left:2em;&#xA;      padding-left:1em;&#xA;    }&#xA;    div.csl-indent {&#xA;      margin-left: 2em;&#xA;    }  &lt;/style&gt;&#xA;  &lt;link rel=&#34;stylesheet&#34; href=&#34;http://localhost:57920/Users/chris/my-website/static/styles.css&#34; /&gt;&#xA;&lt;/head&gt;&#xA;&lt;body&gt;&#xA;&lt;header id=&#34;title-block-header&#34;&gt;&#xA;&lt;h1 class=&#34;title&#34;&gt;On the Generalizability of Lab Experiments&lt;/h1&gt;&#xA;&lt;p class=&#34;author&#34;&gt;Christian Kremer&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
