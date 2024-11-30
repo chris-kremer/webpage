@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CK</title>
-    <link>https://chris-kremer.github.io/</link>
+    <link>http://localhost:57920/webpage/</link>
     <description>Recent content on CK</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 15 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://chris-kremer.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:57920/webpage/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>On the Generalizability of Lab Experiments</title>
-      <link>https://chris-kremer.github.io/posts/socpref_first/</link>
+      <link>http://localhost:57920/webpage/posts/socpref_first/</link>
       <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://chris-kremer.github.io/posts/socpref_first/</guid>
+      <guid>http://localhost:57920/webpage/posts/socpref_first/</guid>
       <description>&lt;h2 id=&#34;introduction&#34; class=&#34;unnumbered&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This term paper was written as part of the &amp;ldquo;Social Preference&amp;rdquo; course at&#xA;Humboldt Universität zu Berlin. It addresses a relatively recent&#xA;controversy in empirical economics with wide-ranging consequences for&#xA;the way future research will be conducted. The debate centers around&#xA;publications by Steven D. Levitt and John A. List which have been&#xA;perceived as critical of laboratory setups for economic experiments.&#xA;Colin Camerer answered Levitt and List, laying out various arguments&#xA;favoring lab experiments. Camerer&amp;rsquo;s publication will be the focus of&#xA;this analysis. The first part will summarize the positions of Levitt and&#xA;List. Then, the second part will summarize Camerer&amp;rsquo;s critique of their&#xA;position before critiquing Camerer&amp;rsquo;s critique and connecting the paper&#xA;to our Social Preference course in the third and fourth parts.&lt;/p&gt;</description>
     </item>
   </channel>
