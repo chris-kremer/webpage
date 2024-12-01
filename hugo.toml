@@ -3,3 +3,9 @@ languageCode = 'en-us'
 title = 'CK'
 theme = "ananke"
 math = true
+relativeURLs = true
+canonifyURLs = true
+[markup]
+  [markup.pandoc]
+    pandoc = true
+    args = ["--citeproc", "--bibliography=static/references/1.bib"]
